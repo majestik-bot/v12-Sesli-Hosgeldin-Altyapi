@@ -1,8 +1,5 @@
-# Loz 'Bey Sesli Hoşgeldin Altyapısı
-
-Çalınması Serbesttir.
-Hak Mak Yoktur.
+# MultiCraft Sesli Hoşgeldin Altyapısı
 
 Doya Doya Kullanınız...
 
-![alt text](https://i.hizliresim.com/MuxgnU.png)
+
